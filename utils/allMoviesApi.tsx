@@ -1,0 +1,61 @@
+const AllFilmList = [
+    {
+        title:"রেডরুম",
+        titleEn:'redrum',
+        path:'/',
+        slug:'redrum',
+        category:'romantic',
+        imgUrl:'/images/redrum.jpg',
+        actor:'নাজিয়া হর্ষা, মফিজুর নূর',
+        director:'আতিকমান',
+        description:'পোস্ট ট্রমাটিক ডিজঅর্ডার থেকে প্রায়ই কল্পনা আর বাস্তবতা গুলিয়ে ফেলে জাহান। তার হাজব্যান্ড শিহাব চেষ্টা করে যায় সেই ট্রমা লুকিয়ে জাহানকে স্বাভাবিক জীবনে ফেরাতে, কিন্তু পারে না।',
+    },
+    {
+        title:"গুটি",
+        titleEn:'guti',
+        slug:'guti',
+        path:'/',
+        category:'thriller',
+        imgUrl:'/images/guti.jpg',
+        actor:'নাজিয়া অর্ষা, নূর',
+        director:'অর্ষা নূর',
+        description:'পোস্ট ট্রমাটিক ডিজঅর্ডার থেকে প্রায়ই কল্পনা আর বাস্তবতা গুলিয়ে ফেলে জাহান। তার হাজব্যান্ড শিহাব চেষ্টা করে যায় সেই ট্রমা লুকিয়ে জাহানকে স্বাভাবিক জীবনে ফেরাতে, কিন্তু পারে না।',
+    },
+    {
+        title:"জাহান",
+        titleEn:'jahan',
+        slug:'jahan',
+        path:'/',
+        category:'action',
+        imgUrl:'/images/jahan.jpg',
+        actor:'মোস্তাফিজুর নূর',
+        director:'জামান নূর',
+        description:'পোস্ট ট্রমাটিক ডিজঅর্ডার তার হাজব্যান্ড শিহাব চেষ্টা করে যায় সেই ট্রমা লুকিয়ে জাহানকে স্বাভাবিক জীবনে ফেরাতে, কিন্তু পারে না।',
+    },
+    {
+        title:"দুই দিনের দুনিয়া ",
+        titleEn:'dui diner duniya',
+        slug:"dui_diner_duniya",
+        path:'/',
+        category:'drama',
+        imgUrl:'/images/dui_diner_duniya.jpg',
+        actor:'অর্ষা, মোস্তাফিজুর নূর',
+        director:'আতিক',
+        description:'পোস্ট ট্রমাটিক ডিজঅর্ডার থেকে প্রায়ই কল্পনা আর বাস্তবতা গুলিয়ে ফেলে জাহান। তার হাজব্যান্ড শিহাব চেষ্টা করে যায় সেই ট্রমা লুকিয়ে জাহানকে স্বাভাবিক জীবনে ফেরাতে, কিন্তু পারে না।',
+    },
+    {
+        title:"অ্যালেন স্বপন ",
+        titleEn:'allen shopon',
+        slug:"allen_shopon",
+        path:'/',
+        category:'thriller',
+        imgUrl:'/images/allen_poster.jpg',
+        actor:'নাজিয়া মোস্তাফিজুর',
+        director:'জামান',
+        description:'পোস্ট ট্রমাটিক ডিজঅর্ডার থেকে প্রায়ই কল্পনা আর বাস্তবতা গুলিয়ে ফেলে জাহান। তার হাজব্যান্ড শিহাব চেষ্টা করে যায় সেই ট্রমা লুকিয়ে জাহানকে স্বাভাবিক জীবনে ফেরাতে, কিন্তু পারে না।',
+    },
+   
+    
+]
+
+export default AllFilmList

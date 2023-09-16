@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  overflow-x: hidden !important;
+  background-color: #1f2937 !important;
+}
+
+._container{
+  max-width: 1444px;
+  padding-left: 6%;
+  padding-right: 6%;
+  margin: auto;
+}
+.bg-my-image{
+  background-image: url('../../public/images/bg.jpg');
+}
+
+@media screen and(max-width:768px) {
+  ._container{
+    max-width: 100%;
+    padding-left: 4%;
+    padding-right: 4%;
+    margin: auto;
+  }
+}
+
